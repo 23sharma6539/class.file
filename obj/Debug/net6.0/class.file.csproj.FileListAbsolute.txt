@@ -1,0 +1,15 @@
+C:\Users\23sharma6539\source\repos\class.file\class.file\bin\Debug\net6.0\class.file.exe
+C:\Users\23sharma6539\source\repos\class.file\class.file\bin\Debug\net6.0\class.file.deps.json
+C:\Users\23sharma6539\source\repos\class.file\class.file\bin\Debug\net6.0\class.file.runtimeconfig.json
+C:\Users\23sharma6539\source\repos\class.file\class.file\bin\Debug\net6.0\class.file.dll
+C:\Users\23sharma6539\source\repos\class.file\class.file\bin\Debug\net6.0\class.file.pdb
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.csproj.AssemblyReference.cache
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.AssemblyInfoInputs.cache
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.AssemblyInfo.cs
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.csproj.CoreCompileInputs.cache
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.dll
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\refint\class.file.dll
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.pdb
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\class.file.genruntimeconfig.cache
+C:\Users\23sharma6539\source\repos\class.file\class.file\obj\Debug\net6.0\ref\class.file.dll
